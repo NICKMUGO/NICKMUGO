@@ -63,12 +63,16 @@ A hospital management web app (**React · Flask**) for appointment scheduling, d
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NICKMUGO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NICKMUGO&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICKMUGO&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NICKMUGO&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=NICKMUGO&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NICKMUGO&theme=radical&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
