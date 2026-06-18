@@ -47,15 +47,15 @@
 ### 🚀 Flagship Projects
 
 #### 🎮 [Arcane Honor](https://nickmugo.itch.io/misfitskenya) — *Global Finalist*
-A 3D game built in **Unity & C#** to advance the UN Sustainable Development Goals, submitted to the **QS ImpACT Skills Challenge 2024**. As **Scrum Master & Lead Developer**, I steered Team Misfits254 to finalist status against a global field judged by 50+ international experts — representing Kenya on the world stage. *Playable now on itch.io.*
+A 3D game built in **Unity & C#** to advance the UN Sustainable Development Goals, submitted to the **QS ImpACT Skills Challenge 2024**. As **Scrum Master & Lead Developer**, I steered Team Misfits254 to finalist status against a global field judged by 50+ international experts — representing Kenya on the world stage.
 
 #### 🏠 [Makao Marketplace](https://github.com/NICKMUGO/Real-Estate-App) — *Real Estate Platform*
 A property listing and rental management app (**React · Flask · SQLite**) engineered to digitise Kenya's informal rental market. Landlords post listings; tenants search, filter, and enquire. Led end-to-end as **Scrum Master & Full-Stack Developer**.
 
-#### 💬 [MamboCorner](https://github.com/Njmwas-Moringa-Class/social-media-application-social-media-app) — *Social Platform*
+#### 💬 [MamboCorner](https://github.com/Njmwas-Moringa-Class/social-media-application-social-media-app) — *Kenyan Social Media App*
 A full-stack social media platform (**React · Flask · SQLAlchemy**) with profiles, content posting, following, and real-time interaction. Drove the team through sprint planning, code reviews, and delivery as **Scrum Master**.
 
-#### 🏥 [Hospital Appointment System](https://github.com/coderbenny/Hospital-mgmt-system) — *Healthcare Tooling*
+#### 🏥 [Hospital Appointment System](https://github.com/coderbenny/Hospital-mgmt-system) — *Healthcare Management*
 A hospital management web app (**React · Flask**) for appointment scheduling, doctor availability, and patient records — built and shipped with a collaborative engineering team.
 
 ---
