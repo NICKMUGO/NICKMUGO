@@ -2,18 +2,18 @@
 <h3 align="center">Software Engineer · Backend Systems · Strathmore University</h3>
 
 <p align="center">
-  <i>Engineering software that scales to millions — currently inside Safaricom's billing core.</i>
+  <i>Engineering software that scales to millions inside Safaricom's billing core.</i>
 </p>
 
 ---
 
 <p align="center">
-  I'm a Software Engineering student at <b>Strathmore University</b> who builds backend systems that hold up under real-world pressure. Right now I'm engineering enterprise billing infrastructure at <b>Safaricom PLC</b> — Africa's largest telco — where the systems I touch serve <b>millions of users</b>. I've led engineering teams as Scrum Master across four shipped products, represented Kenya on a <b>global stage</b> as a QS ImpACT finalist, and I'm relentlessly drawn to one kind of problem: turning tangled legacy systems into clean, scalable architecture that just works.
+  I'm a Software Engineering student at <b>Strathmore University</b> who builds backend systems that hold up under real-world pressure. Right now I'm engineering enterprise billing infrastructure at <b>Safaricom PLC</b> Africa's largest telco — where the systems I touch serve <b>millions of users</b>. I've led engineering teams as Scrum Master across four shipped products, represented Kenya on a <b>global stage</b> as a QS ImpACT finalist, and I'm relentlessly drawn to one kind of problem: turning tangled legacy systems into clean, scalable architecture that just works.
 </p>
 
-- 🔭 **Currently Engineering:** Backend services in **Java Spring Boot** within Safaricom's Core Billing & BSS Operations — modernising legacy infrastructure into scalable, maintainable architecture serving millions.
+- 🔭 **Internship Period:** Backend services in **Java Spring Boot** within Safaricom's Core Billing & BSS Operations — modernising legacy infrastructure into scalable, maintainable architecture serving millions.
 - 🌱 **Sharpening:** Enterprise backend architecture, BPM/BSS workflows, API integration at scale, and production-grade Spring Boot design patterns.
-- ⚡ **Driven By:** Backend systems, full-stack engineering, networking & security (CCNA-certified), and technology built for real human impact.
+- ⚡ **Driven By:** Macine Learning ,Backend systems, full-stack engineering, networking & security (CCNA-certified), and technology built for real human impact.
 - 🏆 **Recognition:** QS ImpACT Skills Challenge **Finalist (2024)** — selected from a global field judged by 50+ international experts.
 
 ---
@@ -65,14 +65,6 @@ A hospital management web app (**React · Flask**) for appointment scheduling, d
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NICKMUGO&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NICKMUGO&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NICKMUGO&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NICKMUGO&theme=radical&no-frame=true&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
